@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+yarn-error.log
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+
+# Testing
+coverage/
+.vitest/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code
+CLAUDE.md
+
+# OS
+.DS_Store
+Thumbs.db
